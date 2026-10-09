@@ -1,4 +1,4 @@
-# Custom-RF-Kalman-Scanner-4-SDR
+# Custom-RF-Kalman-Scanner-4-RTLSDR
 
 A real-time Software Defined Radio (SDR) application for monitoring RF activity using adaptive signal processing techniques.
 
